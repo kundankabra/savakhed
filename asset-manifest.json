@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/savakhed/static/css/main.6d466cce.chunk.css",
-    "main.js": "/savakhed/static/js/main.fc32835f.chunk.js",
-    "main.js.map": "/savakhed/static/js/main.fc32835f.chunk.js.map",
+    "main.css": "/savakhed/static/css/main.d6014304.chunk.css",
+    "main.js": "/savakhed/static/js/main.4c2c9fef.chunk.js",
+    "main.js.map": "/savakhed/static/js/main.4c2c9fef.chunk.js.map",
     "runtime-main.js": "/savakhed/static/js/runtime-main.4f15b9c0.js",
     "runtime-main.js.map": "/savakhed/static/js/runtime-main.4f15b9c0.js.map",
     "static/js/2.9aaa7ac3.chunk.js": "/savakhed/static/js/2.9aaa7ac3.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.c72981c7.chunk.js": "/savakhed/static/js/3.c72981c7.chunk.js",
     "static/js/3.c72981c7.chunk.js.map": "/savakhed/static/js/3.c72981c7.chunk.js.map",
     "index.html": "/savakhed/index.html",
-    "static/css/main.6d466cce.chunk.css.map": "/savakhed/static/css/main.6d466cce.chunk.css.map",
+    "static/css/main.d6014304.chunk.css.map": "/savakhed/static/css/main.d6014304.chunk.css.map",
     "static/js/2.9aaa7ac3.chunk.js.LICENSE.txt": "/savakhed/static/js/2.9aaa7ac3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4f15b9c0.js",
     "static/js/2.9aaa7ac3.chunk.js",
-    "static/css/main.6d466cce.chunk.css",
-    "static/js/main.fc32835f.chunk.js"
+    "static/css/main.d6014304.chunk.css",
+    "static/js/main.4c2c9fef.chunk.js"
   ]
 }
