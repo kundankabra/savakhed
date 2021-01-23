@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/savakhed/static/css/main.f56b51b4.chunk.css",
-    "main.js": "/savakhed/static/js/main.c6c14a50.chunk.js",
-    "main.js.map": "/savakhed/static/js/main.c6c14a50.chunk.js.map",
-    "runtime-main.js": "/savakhed/static/js/runtime-main.888b3940.js",
-    "runtime-main.js.map": "/savakhed/static/js/runtime-main.888b3940.js.map",
-    "static/js/2.15d9ee2d.chunk.js": "/savakhed/static/js/2.15d9ee2d.chunk.js",
-    "static/js/2.15d9ee2d.chunk.js.map": "/savakhed/static/js/2.15d9ee2d.chunk.js.map",
-    "static/js/3.22ee72c8.chunk.js": "/savakhed/static/js/3.22ee72c8.chunk.js",
-    "static/js/3.22ee72c8.chunk.js.map": "/savakhed/static/js/3.22ee72c8.chunk.js.map",
+    "main.css": "/savakhed/static/css/main.12562a8e.chunk.css",
+    "main.js": "/savakhed/static/js/main.d0f2203b.chunk.js",
+    "main.js.map": "/savakhed/static/js/main.d0f2203b.chunk.js.map",
+    "runtime-main.js": "/savakhed/static/js/runtime-main.b00d800b.js",
+    "runtime-main.js.map": "/savakhed/static/js/runtime-main.b00d800b.js.map",
+    "static/js/2.f44f8a8f.chunk.js": "/savakhed/static/js/2.f44f8a8f.chunk.js",
+    "static/js/2.f44f8a8f.chunk.js.map": "/savakhed/static/js/2.f44f8a8f.chunk.js.map",
+    "static/js/3.86bebd2a.chunk.js": "/savakhed/static/js/3.86bebd2a.chunk.js",
+    "static/js/3.86bebd2a.chunk.js.map": "/savakhed/static/js/3.86bebd2a.chunk.js.map",
     "index.html": "/savakhed/index.html",
-    "static/css/main.f56b51b4.chunk.css.map": "/savakhed/static/css/main.f56b51b4.chunk.css.map",
-    "static/js/2.15d9ee2d.chunk.js.LICENSE.txt": "/savakhed/static/js/2.15d9ee2d.chunk.js.LICENSE.txt"
+    "static/css/main.12562a8e.chunk.css.map": "/savakhed/static/css/main.12562a8e.chunk.css.map",
+    "static/js/2.f44f8a8f.chunk.js.LICENSE.txt": "/savakhed/static/js/2.f44f8a8f.chunk.js.LICENSE.txt",
+    "static/media/about.ead10859.svg": "/savakhed/static/media/about.ead10859.svg",
+    "static/media/author.00511017.svg": "/savakhed/static/media/author.00511017.svg",
+    "static/media/search.28b0ad10.svg": "/savakhed/static/media/search.28b0ad10.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.888b3940.js",
-    "static/js/2.15d9ee2d.chunk.js",
-    "static/css/main.f56b51b4.chunk.css",
-    "static/js/main.c6c14a50.chunk.js"
+    "static/js/runtime-main.b00d800b.js",
+    "static/js/2.f44f8a8f.chunk.js",
+    "static/css/main.12562a8e.chunk.css",
+    "static/js/main.d0f2203b.chunk.js"
   ]
 }
