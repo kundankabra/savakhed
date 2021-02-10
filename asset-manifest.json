@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/savakhed/static/css/main.7588e79d.chunk.css",
+    "main.css": "/savakhed/static/css/main.f935bfff.chunk.css",
     "main.js": "/savakhed/static/js/main.a8d11b4f.chunk.js",
     "main.js.map": "/savakhed/static/js/main.a8d11b4f.chunk.js.map",
     "runtime-main.js": "/savakhed/static/js/runtime-main.480763fc.js",
@@ -12,7 +12,7 @@
     "index.html": "/savakhed/index.html",
     "service-worker.js": "/savakhed/service-worker.js",
     "service-worker.js.map": "/savakhed/service-worker.js.map",
-    "static/css/main.7588e79d.chunk.css.map": "/savakhed/static/css/main.7588e79d.chunk.css.map",
+    "static/css/main.f935bfff.chunk.css.map": "/savakhed/static/css/main.f935bfff.chunk.css.map",
     "static/js/2.f6bc426d.chunk.js.LICENSE.txt": "/savakhed/static/js/2.f6bc426d.chunk.js.LICENSE.txt",
     "static/media/about.ead10859.svg": "/savakhed/static/media/about.ead10859.svg",
     "static/media/coming-soon.8dba0f90.jpg": "/savakhed/static/media/coming-soon.8dba0f90.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.480763fc.js",
     "static/js/2.f6bc426d.chunk.js",
-    "static/css/main.7588e79d.chunk.css",
+    "static/css/main.f935bfff.chunk.css",
     "static/js/main.a8d11b4f.chunk.js"
   ]
 }
