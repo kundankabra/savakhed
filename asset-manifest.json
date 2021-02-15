@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/savakhed/static/css/main.92770ff0.chunk.css",
-    "main.js": "/savakhed/static/js/main.f70ee164.chunk.js",
-    "main.js.map": "/savakhed/static/js/main.f70ee164.chunk.js.map",
+    "main.js": "/savakhed/static/js/main.59ea7813.chunk.js",
+    "main.js.map": "/savakhed/static/js/main.59ea7813.chunk.js.map",
     "runtime-main.js": "/savakhed/static/js/runtime-main.480763fc.js",
     "runtime-main.js.map": "/savakhed/static/js/runtime-main.480763fc.js.map",
-    "static/js/2.f6bc426d.chunk.js": "/savakhed/static/js/2.f6bc426d.chunk.js",
-    "static/js/2.f6bc426d.chunk.js.map": "/savakhed/static/js/2.f6bc426d.chunk.js.map",
+    "static/js/2.bd3e07bb.chunk.js": "/savakhed/static/js/2.bd3e07bb.chunk.js",
+    "static/js/2.bd3e07bb.chunk.js.map": "/savakhed/static/js/2.bd3e07bb.chunk.js.map",
     "static/js/3.821770cd.chunk.js": "/savakhed/static/js/3.821770cd.chunk.js",
     "static/js/3.821770cd.chunk.js.map": "/savakhed/static/js/3.821770cd.chunk.js.map",
     "index.html": "/savakhed/index.html",
     "service-worker.js": "/savakhed/service-worker.js",
     "service-worker.js.map": "/savakhed/service-worker.js.map",
     "static/css/main.92770ff0.chunk.css.map": "/savakhed/static/css/main.92770ff0.chunk.css.map",
-    "static/js/2.f6bc426d.chunk.js.LICENSE.txt": "/savakhed/static/js/2.f6bc426d.chunk.js.LICENSE.txt",
+    "static/js/2.bd3e07bb.chunk.js.LICENSE.txt": "/savakhed/static/js/2.bd3e07bb.chunk.js.LICENSE.txt",
     "static/media/about.ead10859.svg": "/savakhed/static/media/about.ead10859.svg",
     "static/media/coming-soon.8dba0f90.jpg": "/savakhed/static/media/coming-soon.8dba0f90.jpg",
     "static/media/left-arrow.04c54b7a.svg": "/savakhed/static/media/left-arrow.04c54b7a.svg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.480763fc.js",
-    "static/js/2.f6bc426d.chunk.js",
+    "static/js/2.bd3e07bb.chunk.js",
     "static/css/main.92770ff0.chunk.css",
-    "static/js/main.f70ee164.chunk.js"
+    "static/js/main.59ea7813.chunk.js"
   ]
 }
